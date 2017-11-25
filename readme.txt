@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git does not track changes of files.
 my stupid boss still prefers 
+Creating a new branch is quick.
