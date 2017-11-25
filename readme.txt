@@ -8,3 +8,4 @@ my stupid boss still prefers
 Creating a new branch is quick.
 Switch to dev
 add dev2
+Creating a new branch is quick & simple.
